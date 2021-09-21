@@ -1,0 +1,48 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin:0px;
+    font-weight: bolder;
+}
+
+.spanNote{
+    font-size: 20px;
+    background-color: black;
+}
+
+.btn-success:hover{
+ background-color:red;
+ font-family: cursive;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float:left;
+}
+
+.div_speed_img , .div_volume_img{
+width:200px;
+border-radius: 100px;
+}
+
+#speed_text,#volume_text{
+    font-size: 23px;
+    margin: 10px;
+}
+
+.div_volume{
+    float:right;
+}
+
+canvas{
+    border:5px ridge grey;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+.play_button{
+    margin-right: 10px;
+}
